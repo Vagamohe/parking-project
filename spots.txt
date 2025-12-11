@@ -1,0 +1,15 @@
+RegularSpot;A2;false
+RegularSpot;A3;false
+RegularSpot;A4;false
+CompactSpot;A10;false
+CompactSpot;A11;false
+CompactSpot;A12;false
+CompactSpot;A13;false
+ElectricSpot;A14;false
+ElectricSpot;A15;false
+ElectricSpot;A16;false
+ElectricSpot;A17;false
+LargeSpot;A18;false
+LargeSpot;A19;false
+LargeSpot;A20;false
+LargeSpot;A21;false
